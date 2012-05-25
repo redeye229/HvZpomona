@@ -1,0 +1,23 @@
+HvZ Website Feature List
+Ordered by priority
+
+Game mechanics implemented similar to HvZ source
+	Ability to register new players during a registration perioud requireing a special registration code that is to be handed out at the meetings. also ask a few servey questions during sign-up 
+	Ability to output and excel readable table of all players and their survey responses
+	After game start allow zombies to report tags usung the human ids of human players
+	Keep track of human and zombie populations as well as maintain zombie feed timers and corpse zombies when they expire
+	allow the game to be ended and the winner announced at any time
+provide side protected communication channels for both humans and zombies in the form of forums and IM style chat
+provide a help system where player can submit tickets to be answered by anyone with moderator privledge and that is only visible to moderators
+	this must allow for replying to a message and keeping a running thread of the conversations
+	must be able to be marked as answered/solved and kept for archiving
+	must be time stamped
+	ability for moderatior to chose to be emailed abut a new support ticked
+display on the main page that shows the current number of humans and zombies
+an admin ticker that shows game events, such as starvation and tags with timestamps
+moderator ability to search for any player by real name, or a fuzzy searchby human ID
+Moderator ability to revive humans and corpse as well as force tage a human or corpse a zombie
+visibly timestamp everything, communications messages, game events(tags), Help tickets...
+public forum
+public rule page
+Mobile site for both admis and players
